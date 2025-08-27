@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Modern Alert_modal-close is-large</name>
+   <tag></tag>
+   <elementGuidId>64b56570-2986-4c50-b878-de7fb01d3b54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.modal-close.is-large</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;close&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5efd3ca9-5972-4827-8347-881872516e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>35c1ab7a-9326-42d0-a233-4d13d5a15b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-close is-large</value>
+      <webElementGuid>662dc5ba-21ab-4a23-b5f4-cd86df27fbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;has-navbar-fixed-top&quot;]/body[1]/app-root[@class=&quot;ng-tns-c490104382-0&quot;]/app-alert[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;columns is-multiline&quot;]/div[@class=&quot;column is-6-desktop is-8-tablet&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;modal is-active&quot;]/button[@class=&quot;modal-close is-large&quot;]</value>
+      <webElementGuid>d7fd5d0a-8dab-47f6-a3bc-db3a5c057930</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>d8c3190c-adef-4484-a798-7f02177f7709</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
